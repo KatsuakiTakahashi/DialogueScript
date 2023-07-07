@@ -1,0 +1,5 @@
+<MessageInterval>20
+<Name>男１
+<Message> セリフ１
+<CharacterMode> 男１_喜び
+<Message> セリフ2
